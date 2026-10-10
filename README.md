@@ -77,7 +77,7 @@ Kör `python -m pytest` igen. Läs failures: vilka testnamn failar? Vilket `asse
 
 > **Tester skyddar gammalt beteende när koden förändras.** Ett test är inte bara till för att kontrollera ny kod. Det kan också upptäcka när något som fungerade tidigare går sönder. Det är ett **regressionsfel**.
 
-**Klar när:** Du har sett nekade uthyrningstester bli röda, fixat implementationen utan att ändra testerna och fått hela testsamlingen grön igen. Steget tar ungefär **10–15 minuter**; ändra tillbaka till fungerande kod innan du fortsätter.
+**Klar när:** Du har sett nekade uthyrningstester bli röda, fixat implementationen utan att ändra testerna och fått hela testsamlingen grön igen. ändra tillbaka till fungerande kod innan du fortsätter.
 
 ## Steg 8 – returnera en cykel
 
