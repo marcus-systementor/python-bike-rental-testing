@@ -2,7 +2,7 @@
 
 ## Mål
 
-Öva att låta ett test beskriva en regel, se det bli **RED**, ändra implementationen och se det bli **GREEN**. Du tränar också på att tester fångar regressioner: gamla gröna tester ska fortsätta vara gröna när koden ändras. Labben tar ungefär **90–120 minuter**. Den är liten med avsikt: fem functions och ett bike-`dict`, utan classes eller ny arkitektur.
+Öva att låta ett test beskriva en regel, se det bli **RED**, ändra implementationen och se det bli **GREEN**. Du tränar också på att tester fångar regressioner: gamla gröna tester ska fortsätta vara gröna när koden ändras. Det du kommer göra: fem functions och ett bike-`dict`, utan classes eller ny arkitektur.
 
 ## Kom igång
 
